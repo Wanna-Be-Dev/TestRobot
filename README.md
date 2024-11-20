@@ -4,7 +4,7 @@
 
 Робот на управлении (WASD), с разными режимами камеры.Препядствия генерируются случайно.При нажатии на паузу есть возможность настроить чуствительность мышки и просмотр подсказок по управлению.
 
- ![](https://raw.githubusercontent.com/Wanna-Be-Dev/TestRobot/refs/heads/master/Assets/Materials/keyboard.png)  
+ ![Preview](https://raw.githubusercontent.com/Wanna-Be-Dev/TestRobot/refs/heads/master/Assets/Materials/keyboard.png)  
 $${\color{red}управлении - WASD}$$
 $${\color{blue}Reset робота на начало - R}$$
 $${\color{green}Выбор режима камеры (От 3го лица возможно управление мышкой) - C}$$
